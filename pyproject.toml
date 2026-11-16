@@ -3,7 +3,7 @@ name = "comfyui-videohelpersuite"
 description = "Nodes related to video workflows (Maintained fork by xtooou, original by Kosinkadink)"
 version = "1.7.9"
 license = { file = "LICENSE" }
-dependencies = ["opencv-python", "imageio-ffmpeg"]
+dependencies = ["imageio-ffmpeg"]
 
 [project.urls]
 Repository = "https://github.com/xtooou/ComfyUI-VideoHelperSuite"
